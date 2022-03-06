@@ -1,0 +1,23 @@
+Muhammad Abu Bakar Aziz  -20100117
+
+ARP Request Implementations:
+Whenever router receives the ARP request from client, asking for its mac address, the router replies to that client back with its mac
+Whenever router receives the ARP reply, it reinserts the mac address into the cache then I have implemented the whole procedure as mentioned in the slides and handout uploaded.
+ALL definations and implementations details can be seen in sr_arp.c and sr_arp.h .
+
+IP:
+First whenever it receives the IP packet, it checks whether it is packet for router or for other destination. If 
+the packet is for router, it forwards the packet to other destination using Longest Prefix Matching. If the packet is for the router, it checks for echo request and TCP, and send reply accordingly. 
+All function details of IP packet and implementation details can be seen in sr_ip.h and sr_ip.c files
+
+ICMP. 
+All the ICMP replies such as Echo Reply, Dest_net_unreach, Time_exceeded, dest_host_unreach, and port unreachable are implemented. For most of the replies, i have created a new packet and allocated new space for IP packet. Most of the function definations of ICMP packet and its implementations are in  icmp.h and icmp.c.
+
+
+
+
+Issues: I have tested all the such ping, traceroute, wget commands and all works fine. you can also give wrong router address of same type e.g (192.168.2.6) will return icmp error. Howeover, very rarely there is segmentation fault which maybe  because i am not freeing the memory properly. If that occurs, please rerun the code again. Moreover, i have assumed a small network for this assignment only.
+
+Validation: I have only done validation for IP length and checksum of IP and it displays the error.
+
+FEEL FREE TO TAKE MY VIVA IF YOU HAVE ANY QUESTIONS OR THERE ARE ANY ISSUES WITH IMPLEMENTATIONS.  I have mostly implemented and used logic mentioned in the stanford slides and handout given. 
