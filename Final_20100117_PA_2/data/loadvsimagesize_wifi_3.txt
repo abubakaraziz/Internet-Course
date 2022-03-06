@@ -1,0 +1,9 @@
+image_percent css_percent text_percent js_percent page.page_load_time
+77 2 5 16 94372.715 www.alibaba.com.har
+9 0 28 71 131333.969 www.cnn.com.har
+4 12 39 68 80391.963 www.espncricinfo.com.har
+65 3 8 26 76243.871 www.imdb.com.har
+18 0 16 58 93809.295 www.reddit.com.har
+7 4 31 71 58525.74 www.washingtonpost.com.har
+[3510769, 2396733, 2712300, 1425873, 1856208, 1200274]
+[94372.71499999042, 131333.96899999934, 80391.9629999873, 76243.87099999876, 93809.29499999911, 58525.73999999731]

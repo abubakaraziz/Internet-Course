@@ -1,0 +1,7 @@
+8899.867 www.alibaba.com.har
+167686.692 www.cnn.com.har
+14350.203 www.espncricinfo.com.har
+13579.972 www.imdb.com.har
+11528.831 www.reddit.com.har
+30754.637 www.washingtonpost.com.har
+[8899.867000000002, 167686.69200000007, 14350.202999999996, 13579.972000000002, 11528.831, 30754.637]

@@ -1,0 +1,82 @@
+Network Throughput vs Page_Load_time
+Cnn page_load_time on different traces
+
+page_size load_time network wesbite:cnn
+28417 60438.371 Cellular_1
+28300 34771.281 Cellular_2
+31544 110561.735 WiFi_1
+28235 168712.504 WiFi_2
+27715 131333.969 WiFi_3
+28257 212902.129 WiFi_4
+[60438.371,34771.281,110561.735,168712.504,131333.969,212902.129]
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+
+page_size load_time website: reddit
+13371 71798.144 Cellular_1
+13133 26198.778 Cellular_2
+13113 37832.795 WiFi_1
+13133 146728.047 WiFi_2
+13133 93809.295 WiFi_3
+13133 105977.891 WiFi_4
+[71798.144,26198.778,37832.795,146728.047,93809.295,105977.891]
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+
+page_size load_time website alibaba
+1307 100681.466 Cellular_1
+1304 26679.205 Cellular_2
+1303 32658.922 WiFi_1
+1307 166702.718 WiFi_2
+1306 94372.715 WiFi_3
+1311 177983.815 WiFi_4
+[100681.466,26679.205,32658.922,166702.718,94372.715,177983.815]
+
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+
+page_size load_time website :washington
+1226 134258.609 Cellular_1
+989 25142.861 Cellular_2
+956 20700.415 WiFi_1
+974 103939.399 WiFi_2
+1035 58525.74 WiFi_3
+1060 96191.442 WiFi_4
+[134258.609,25142.861,20700.415,103939.399,58525.74,96191.442]
+
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+
+page_size load_time website:cricinfo
+372377 66645.212 Cellular_1
+348207 70177.117 Cellular_2
+55979 23994.415 WiFi_1
+345118 161811.397 WiFi_2
+372691 80391.963 WiFi_3
+375729 165820.487 WiFi_4
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+[66645.212,70177.117,23994.415,161811.397,80391.963,165820.487]
+
+Page_size load_time website:imdb
+52600 73266.18 Cellular_1
+52233 29827.08 Cellular_2
+52013 31890.756 Wifi_1
+53248 123182.089 WiFi_2
+52088 76243.871 WiFi_3
+53546 163974.822 WiFi_4
+
+[73266.18,29827.08,31890.756,123182.089,76243.871,163974.822]
+[Cellular_1,Cellular_2,WiFi_1,WiFi_2,WiFi_3,WiFi_4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

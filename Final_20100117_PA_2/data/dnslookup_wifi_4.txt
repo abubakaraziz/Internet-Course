@@ -1,0 +1,7 @@
+136715.454 edition.cnn.com.har
+27391.264 www.alibaba.com.har
+113525.895 www.espncricinfo.com.har
+139688.022 www.imdb.com.har
+1487.908 www.reddit.com.har
+127051.869 www.washingtonpost.com.har
+[136715.454, 27391.264000000003, 113525.895, 139688.02200000006, 1487.908, 127051.869]

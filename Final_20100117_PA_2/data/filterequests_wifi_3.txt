@@ -1,0 +1,9 @@
+Foriegn_Data total_size percent website
+117702 118326 99 www.cnn.com
+5680 57871 9 www.imdb.com
+27389 372691 7 www.espncricinfo.com
+76 13219 0 www.reddit.com
+97045 97832 99 www.washingtonpost.com
+0 1306 0 www.alibaba.com
+
+97045 97832 99 www.washingtonpost.com
